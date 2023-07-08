@@ -21,3 +21,4 @@ In This Example I Am Getting Route Argument From The FCM Notification, Based On 
 <BR></BR>
 # Notes
 * Make Sure To Remove Print Statements From Production Code
+* Connect Project With Firebase Using FlutterFire
