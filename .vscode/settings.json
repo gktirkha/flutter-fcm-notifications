@@ -1,0 +1,12 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "cSpell.words": [
+        "flutterfire",
+        "mipmap",
+        "noti"
+    ],
+    "dart.lineLength": 150,
+}
