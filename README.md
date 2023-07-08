@@ -1,6 +1,6 @@
 # Flutter Notifications
 A Simple Project Implementing Flutter Notifications
-This Method Uses Following Method to [Send FCM Token](https://github.com/gktirkha/fcm-notification-py)
+This Method Uses Following Method to [Send FCM Token](https://github.com/gktirkha/FCM-Notifications-Python)
 <BR></BR>
 In This Example I Am Getting Route Argument From The FCM Notification, Based On Which I Am Changing Screen In The Application
 <BR></BR>
