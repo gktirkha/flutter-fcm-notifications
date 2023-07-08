@@ -8,7 +8,7 @@ class NotificationService {
   static final FlutterLocalNotificationsPlugin _flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin();
 
   // Request Permission To Send Notification
-  Future<void> requestNotification() async {
+  Future<void> requestNotificationPermission() async {
     NotificationSettings settings = await _messaging.requestPermission(
       announcement: true,
       carPlay: true,

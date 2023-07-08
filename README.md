@@ -13,7 +13,6 @@ In This Example I Am Getting Route Argument From The FCM Notification, Based On 
 <BR></BR>
 * <B>splash.dart</B>
     * Handles Killed State Notifications
-    * Initializes Firebase Messaging
     * Requests For Notifications Permission
 <BR></BR>
 * <B>notification_service.dart</B>

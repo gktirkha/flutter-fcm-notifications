@@ -18,7 +18,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   void initState() {
-    _notificationService.requestNotification();
+    _notificationService.requestNotificationPermission();
     navigateToNextScreen();
     super.initState();
   }
